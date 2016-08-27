@@ -1,2 +1,0 @@
-# exileconfig
-exile config
